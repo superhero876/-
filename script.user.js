@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.1.0
 // @description  课程树导航 + 视频自动播放 + 自动跳转下一节，绕过"任务点未完成"弹窗
-// @author       Claude (tree-nav from Codex)
+// @author       superhero1
 // @match        https://*.chaoxing.com/*
 // @grant        none
 // @run-at       document-end
