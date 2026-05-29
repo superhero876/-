@@ -6,6 +6,8 @@
 
 使用方法： 点开文件夹中的script.js文件，复制并粘贴到篡改猴中
 https://www.tampermonkey.net/script_installation.php#url=https://github.com/superhero876/-/raw/refs/heads/main/script.user.js
+
+
 保持篡改猴运行并用浏览器打开学习通进入课程学习界面脚本会自动运行
 
 
